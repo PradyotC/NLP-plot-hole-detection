@@ -1,8 +1,5 @@
 ## Plot Hole Detection in Fantasy Novels
 
-This code accompanies the paper [Low-Shot Learning for Fictional Claim Verification](https://arxiv.org/abs/2304.02769).
-
-
 Steps to run:
 1. install conda env using conda_env.yml: `conda env create --file=conda_env_gpu.yml`
 2. install spacy lexicon: `python -m spacy download en_core_web_sm`
